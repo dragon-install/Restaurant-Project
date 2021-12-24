@@ -1,0 +1,44 @@
+body {
+  background: #fbfbfb;
+}
+
+.tab-options {
+  display: flex;
+}
+
+.tab-options li {
+  margin-right: 10px;
+}
+
+li:hover {
+  cursor: pointer;
+}
+
+.main:hover {
+  text-decoration: underline;
+}
+
+.menu:hover {
+  text-decoration: underline;
+}
+
+.contact:hover {
+  text-decoration: underline;
+}
+
+.main-header {
+  width: 50vw;
+  text-align: center;
+  padding: 10px 0 10px 0;
+  border: none;
+  background: #cdf7c1;
+  border-radius: 10px;
+}
+
+#content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Source Serif Pro', serif;
+}

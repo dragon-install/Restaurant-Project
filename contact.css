@@ -1,0 +1,15 @@
+h1 {
+  width: 50vw;
+  text-align: center;
+  padding: 10px 0 10px 0;
+  border: none;
+  background: #cdf7c1;
+  border-radius: 10px;
+}
+
+
+#content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
